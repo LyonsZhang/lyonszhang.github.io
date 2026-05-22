@@ -1,0 +1,10 @@
+
+    - path: https://sites.google.com/view/slds2024/menu?authuser=0
+      image: "/files/images/asa.jpg"
+      title: "Presentation at The Conference on Statistical Learning and Data Science 2024"
+      author: "ASA"
+      description: "Honglang Wang will present the work on Dominant-Set Based Clustering For Functional Data"
+      date: "2024-10-25"
+      categories: [news] 
+
+

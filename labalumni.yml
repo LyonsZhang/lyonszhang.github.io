@@ -1,0 +1,102 @@
+    - path: https://www.linkedin.com/in/cui-yishan-42615018b
+      image: /files/images/yishan1.jpg
+      title: "Yishan CUI"
+      lastname: "BCui"
+      started: "Feb 2021"
+      ended: "May 2025"       
+#      author: 
+      subtitle: "Working at AI Startup Company in China."
+      was: "PhD Student in Mathematics (Statistics), Purdue University Indianapolis. Thesis: 'Advancement of Inferences for Genetic/Treatment Effects under Semiparametric Models'. Research supported in part by NSF awards [DMS-2212928](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212928&HistoricalAwards=false)."
+#      date: "2024-03-12"
+#      categories: [] 
+
+    - path: https://science.indianapolis.iu.edu/people-directory/people/fang-xuchen.html
+      image: /files/images/xuchen.jpg
+      title: "Xuchen FANG"
+      lastname: "CFang"
+      started: "Jan 2024"
+      ended: "May 2025"
+#      author: 
+      subtitle: "Working back in China."
+      was: "Master Student in Applied Statistics, IU Indianapolis. Research supported in part by NSF awards [DMS-2212928](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212928&HistoricalAwards=false)."
+#      date: "2024-03-12"
+#      categories: [] 
+
+
+
+    - path: https://openreview.net/profile?id=~Zhiyuan_Zhu4
+      image: /files/images/zhiyuanzhu.jpg
+      title: "Zhiyuan ZHU"
+      lastname: "EZhu"
+      started: "May 2024"
+      ended: "May 2025" 
+#      author: 
+      subtitle: "Now PhD student at TAMU."
+      was: "Undergraduate in Mathematics, Zhejiang University"
+#      date: "2024-03-12"
+#      categories: []
+
+
+
+
+
+
+    - path: https://www.linkedin.com/in/ran-mo-2b8a78202/
+      image: /files/images/ran.jpg
+      title: "Ran MO"
+      lastname: "AMo"
+      started: "Jan 2021"
+      ended: "Dec 2024"
+#      author: 
+      subtitle: "Working at IU Indianapolis."
+      was: "PhD Student in Mathematics (Statistics), Purdue University Indianapolis. Thesis: 'Robust Inference for Heterogeneous Treatment Effects with Applications to NHANES Data'. Research supported in part by NSF awards [DMS-2212928](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212928&HistoricalAwards=false)."
+#      date: "2024-03-12"
+#      categories: [] 
+
+    - path: https://www.linkedin.com/in/ruohong-li-268b21132/
+      image: /files/images/ruohong.png
+      title: "Ruohong LI"
+      lastname: "ALi"
+      started: "Sep 2017"
+      ended: "May 2021"
+#      author: 
+      subtitle: "Senior Machine Learning Scientist at Microsoft."
+      was: "PhD Student in Biostatistics, IU School of Medicine. Thesis: 'Treatment Effect Estimation and Theraputic Optimization Using Observational Data'."
+#      date: "2024-03-12"
+#      categories: [] 
+
+    - path: 
+      image: /files/images/xiang.jpg
+      title: "Xiang WANG"
+      lastname: "AWang"
+      started: "Feb 2021"
+      ended: "May 2024"
+#      author: 
+      subtitle: "Research Assistant at Shanxi University, China."
+      was: "PhD Student in Mathematics (Statistics), IUPUI. Thesis: 'EFFICIENT INFERENCE AND DOMINANT-SET BASED CLUSTERING FOR FUNCTIONAL DATA'. Research supported in part by NSF awards [DMS-2212928](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212928&HistoricalAwards=false)."
+#      date: "2024-03-12"
+#      categories: [] 
+
+    - path: https://www.linkedin.com/in/isaac-manring-a3baa81b7/
+      image: /files/images/issac.jpg
+      title: "Isaac MANRING"
+      lastname: "Manring"
+      started: "Aug 2022"
+      ended: "Dec 2023"
+#      author: 
+      subtitle: "Data Scientist at Allstate."
+      was: "Master Student in Computational Data Science, IUPUI."
+#      date: "2024-03-12"
+#      categories: [] 
+
+    - path: https://scholar.google.com/citations?hl=en&user=1v9ooFUAAAAJ
+      image: /files/images/Wenzhe_Jiao.jpg
+      title: "Wenzhe JIAO"
+      lastname: "Jiao"
+      started: "Aug 2018"
+      ended: "May 2022"
+#      author: 
+      subtitle: "Assistant Professor at TAMU."
+      was: "PhD student in Earth Science with minor in Applied Statistics, IUPUI."
+#      date: "2024-03-12"
+#      categories: [] 

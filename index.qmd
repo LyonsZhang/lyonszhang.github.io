@@ -1,0 +1,120 @@
+---
+title: "Honglang Wang, PhD"
+description-meta: "Honglang Wang is an researcher and teacher about data science, Statistics!"
+image: files/profile/honglangwang.JPG
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    # - icon: sun
+    #   text: DeepPolicyLab
+    #   href: https://deeppolicylab.github.io
+    #   target: _blank
+    - icon: globe
+      text: IUIprofile
+      href: https://math.indianapolis.iu.edu/~hlwang/
+      target: _blank
+    - icon: envelope
+      text: E-mail
+      href: mailto:hlwang@iu.edu
+#    - icon: github
+#      text: Github
+#      href: https://github.com/drganghe
+#    - icon: twitter
+#      text: Twitter
+#      href: https://twitter.com/DrGangHe
+#    - icon: mastodon
+#      text: Mastodon
+#      href: https://mastodon.social/@hegang    
+    - text: "{{< ai arxiv >}} arXiv" 
+      href: http://arxiv.org/a/wang_h_19
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/honglang-wang-18505b29/
+      target: _blank
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@HonglangWang     
+      target: _blank 
+    - text: "{{< iconify fa6-brands orcid size=1xl >}} ORCID"   # use academic icons, "" are needed
+      href: https://orcid.org/0000-0003-3140-5177
+      target: _blank
+    - text: "{{< iconify fa6-brands wordpress >}} Wordpress"
+      href: https://honglangwang.wordpress.com/
+      target: _blank
+    # - text: "{{< ai scopus >}} Scopus"
+    #   href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
+    #   target: _blank
+    - text: "{{< iconify academicons google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=_oqJfq4AAAAJ&hl=en
+      target: _blank
+    # - text: "{{< ai researchgate >}} Research Gate"
+    #   href: https://www.researchgate.net/profile/Gang-He-19
+    #   target: _blank
+
+listing:
+  - id: recent-posts
+    contents:
+      - posts
+      - posts/post-links.yml
+    type: grid
+    max-items: 3
+#    image-height: 150px
+    page-size: 3 #set same as max-times to remove the page number setting
+    fields: [image, date, title, author, description]
+    max-description-length: 75
+    sort:
+      - "date desc"
+      - "title asc"
+---
+
+
+:::{#hero-heading}
+
+Honglang Wang is an researcher and teacher about data science, Statistics!  He is an Associate Professor in the [Department of Mathematical Sciences](https://science.indianapolis.iu.edu/math/index.html){.external target="_blank"}, School of Science, Indiana University Indianapolis. 
+
+**Education**
+
+* PhD in Statistics (2015): Department of Statistics and Probability, Michigan State University. Advisors: Yuehua Cui and Ping-Shou Zhong.
+
+* Dual PhD in Quantitative Biology (2015): Natural Science, Michigan State University. Advisors: C. Robin Buell and Yuehua Cui.
+
+* MS in Mathematics (2010): Center of Mathematical Sciences, Zhejiang University. Advisor: Kefeng Liu.
+
+* BS in Mathematics and Applied Mathematics (2007): Department of Mathematics, Tianjin University, Tian, China.
+
+See my [Curriculum Vitae](files/CV.pdf) for more information.
+
+**Research Interests**
+
+* Statistical Analysis for Longitudinal and Functional Data
+
+* High Dimensional Statistical Inference and its Applications
+
+* Causal Inference
+
+* Machine Learning/Deep Learning
+
+* Nonparametric Statistics
+
+* Empirical Likelihood Methods and its Applications
+
+* Statistical Genetics and Statistical Genomics
+
+
+:::
+
+## Recent Posts
+Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+
+:::{#recent-posts}
+:::
+
+<p align="right">[All Posts »](/posts.qmd)</p>

@@ -1,0 +1,97 @@
+    - path: https://honglang.github.io
+      image: /files/profile/honglangwang.JPG
+      title: "Honglang WANG"
+      lastname: "AWang"
+#      author: 
+      subtitle: "Associate Professor, IU Indianapolis"
+#      date: "2024-03-12"
+#      categories: [] 
+
+#     - path: https://www.linkedin.com/in/cui-yishan-42615018b
+#       image: /files/images/yishan1.jpg
+#       title: "Yishan CUI"
+#       lastname: "BCui"
+#       started: "Feb 2021"
+#       ended: "May 2025"       
+# #      author: 
+#       subtitle: "PhD Student, IU Indianapolis. Research supported in part by NSF awards [DMS-2212928](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212928&HistoricalAwards=false). Semiparametric Inference, Causal Inference."
+# #      date: "2024-03-12"
+# #      categories: [] 
+# 
+#     - path: https://science.indianapolis.iu.edu/people-directory/people/fang-xuchen.html
+#       image: /files/images/xuchen.jpg
+#       title: "Xuchen FANG"
+#       lastname: "CFang"
+#       started: "Jan 2025"
+#       ended: ""
+# #      author: 
+#       subtitle: "PhD Student, IU Indianapolis. Research supported in part by NSF awards [DMS-2212928](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212928&HistoricalAwards=false). Causal Inference, Machine Learning."
+# #      date: "2024-03-12"
+# #      categories: [] 
+
+    - path: 
+      image: /files/images/zhiyuan.jpg
+      title: "Zhiyuan SHU"
+      lastname: "EShu"
+      started: "Sep 2024"
+      ended: ""      
+#      author: 
+      subtitle: "Master Student, IU Indianapolis. Deep Learning on Accelerometer Data Analysis."
+#      date: "2024-03-12"
+#      categories: []
+
+
+    - path: 
+      image: /files/images/makagynGrimm.jpg
+      title: "Makagyn GRIMM"
+      lastname: "EGrimm"
+      started: "August 2025"
+      ended: "" 
+#      author: 
+      subtitle: "Undergraduate, IU Indianapolis. Spatial Transcriptomics."
+#      date: "2024-03-12"
+#      categories: []
+
+    - path: https://www.linkedin.com/in/anish-nair-255087220/
+      image: /files/images/anish_nair.jpg
+      title: "Anish NAIR"
+      lastname: "ENair"
+      started: "Jan 2026"
+      ended: ""      
+#      author: 
+      subtitle: "Master Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis."
+#      date: "2024-03-12"
+#      categories: []
+
+    - path: https://www.linkedin.com/in/faizan-waheed-/
+      image: /files/images/faizan_waheed.jpg
+      title: "Faizan WAHEED"
+      lastname: "EWaheed"
+      started: "Jan 2026"
+      ended: ""      
+#      author: 
+      subtitle: "Master Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis."
+#      date: "2024-03-12"
+#      categories: []
+
+    - path: https://www.linkedin.com/in/hanzlajavaid/
+      image: /files/images/hanzla_javaid.jpg
+      title: "Hanzla JAVAID"
+      lastname: "EJavaid"
+      started: "Jan 2026"
+      ended: ""      
+#      author: 
+      subtitle: "Master Student in Computer Science, IU Indianapolis. Deep Learning on Sleeping Data Analysis."
+#      date: "2024-03-12"
+#      categories: []
+
+    - path: https://www.linkedin.com/in/yashtakte/
+      image: /files/images/yash_takte.jpg
+      title: "Yash TAKTE"
+      lastname: "ETakte"
+      started: "Jan 2026"
+      ended: ""      
+#      author: 
+      subtitle: "Master Student in Data Science, IU Bloomington. Deep Learning on Sleeping Data Analysis."
+#      date: "2024-03-12"
+#      categories: []

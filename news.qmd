@@ -1,0 +1,149 @@
+---
+title: "News"
+subtitle: "What happens now"
+description-meta: "This is a list of things going around now."
+title-block-banner: false
+---
+
+
+## Papers Publication
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/paper.WEBP)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+
+**[Feb 2025]** Isaac Manring, **Honglang Wang**, George Mohler, Xenia Miscouridou. [BSTPP](https://github.com/imanring/BSTPP): [A Python Package for Bayesian Spatiotemporal Point Processes](https://doi.org/10.1080/02664763.2025.2462969). *Journal of Applied Statistics*
+
+**[Jan 2025]** Jingyi Zhang, **Honglang Wang**, Yuehua Cui. [Generalized functional varying index coefficient model for dynamic synergistic gene-environment interactions with binary longitudinal traits](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318103&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author). *Plos One*
+
+**[Jan 2025]** Jingyi Zhang, Xu Liu, **Honglang Wang**, Yuehua Cui. [Functional varying-index coefficients model for dynamic synergistic gene-environment interactions](https://link.springer.com/article/10.1007/s12561-024-09472-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250108&utm_content=10.1007%2Fs12561-024-09472-3). *Statistics in Biosciences*
+:::
+
+:::
+
+
+## Presentations
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/presentation.WEBP)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+**[March 2026] Invited Talk**---Rank-based Inference for Individualized Treatment Rules in Single-index Varying Coefficient Model, March 15-March 18 @ [ENAR 2026 Spring Meeting](https://www.enar.org/meetings/spring2026/) - Indianapolis, Indiana
+
+**[Dec 2025] Invited Talk**---Rank-based Inference for Individualized Treatment Rules in Single-index Varying Coefficient Model, Dec 13-Dec 15 @ [CFE-CMStatistics 2025](https://www.cmstatistics.org/CFECMStatistics2025/) - Birkbeck, University of London
+
+**[June 2025] Invited Talk**---Dominant-Set Based Clustering For Functional Data, June 15-June 18 @ [The 2025 ICSA Applied Statistics Symposium](https://symposium2025.icsa.org/) - University of Connecticut, Storrs, Connecticut
+
+**[March 2025] Research Talk**--- Robust Inference for Heterogeneous Treatment Effects, March 23-March 26, 2025 @ [ENAR 2025 Spring Meeting](https://www.enar.org/meetings/spring2025/) - New Orleans, LA
+
+**[Feb 2025] Invited Talk**---Robust Inference for Heterogeneous Treatment Effects, Feb. 21, 2025 @ Biostatistics Seminar - IU School of Medicine
+
+**[Nov 2024] Invited Talk**---Dominant-Set Based Clustering For Functional Data, Nov. 05-Nov. 08, 2024 @ The Conference on Statistical Learning and Data Science (SLDS 2024) - Newport Beach, California
+
+**[July 2024] Invited Talk**---Empirical Likelihood Inference for Functional Mean Models with Application to Human Cognitive Impairment, July 17-July 19, 2024 @ The 7th International Conference on Econometrics and Statistics (EcoSta 2024) - Beijing, China
+
+**[June 2024] Invited Talk**---Empirical Likelihood Based Efficient Semiparametric Inference for Longitudinal Data with Application to GAW 18 Data, June 28-June 30, 2024 @ 2024 ICSA China Conferences - Wuhan, China
+
+**[April 2024] Invited Talk**---Empirical Likelihood Based Efficient Inference for Sparse Functional Data Accounting for Within-Subject Correlation, Statistics Seminar, Department of Mathematics, Texas State University, April 12, 2024
+
+**[April 2024] Invited Talk**---Empirical Likelihood Based Efficient Inference for Sparse Functional Data Accounting for Within-Subject Correlation, Statistics Colloquium, Department of Mathematics and Statistics, University of Maryland Baltimore County (UMBC), April 12, 2024
+
+:::
+
+:::
+
+## Students Milestones
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/student.WEBP)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+**[April 2025]** Yishan had a successful defense! Congratulations, Dr. Cui! April 04, 2025
+
+**[Nov 2024]** Ran had a successful defense! Congratulations, Dr. Mo! November 01, 2024
+
+**[April 2024]** Xiang had a successful defense! Congratulations, Dr. Wang! April 05, 2024
+
+:::
+
+:::
+
+## Statistics Seminars
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/seminar.WEBP)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Fall 2025](/seminar2025fall.qmd)
+
+<!-- <iframe width="800" height="800" src="https://math.indianapolis.iu.edu/~hlwang/statseminar2025spring.html" title="Statistics Seminar Spring 2025"></iframe> -->
+
+[Spring 2025](/seminar2025spring.qmd)
+[Fall 2024](https://math.indianapolis.iu.edu/~hlwang/statseminar2024fall.html)
+[Spring 2024](https://math.indianapolis.iu.edu/~hlwang/statseminar2024spring.html)
+[Fall 2023](https://math.indianapolis.iu.edu/~hlwang/statseminar2023fall.html)
+[Spring 2023](https://math.indianapolis.iu.edu/~hlwang/statseminar2023spring.html)
+[Fall 2022](https://math.indianapolis.iu.edu/~hlwang/statseminar2022fall.html)
+[Spring 2022](https://math.indianapolis.iu.edu/~hlwang/statseminar2022spring.html)
+[Fall 2021](https://math.indianapolis.iu.edu/~hlwang/statseminar2021fall.html)
+[Spring 2021](https://math.indianapolis.iu.edu/~hlwang/statseminar2021spring.html)
+[Fall 2020](https://math.indianapolis.iu.edu/~hlwang/statseminar2020fall.html)
+[Spring 2020](https://math.indianapolis.iu.edu/~hlwang/statseminar2020spring.html)
+[Fall 2019](https://math.indianapolis.iu.edu/~hlwang/statseminar2019fall.html)
+[Spring 2019](https://math.indianapolis.iu.edu/~hlwang/statseminar2019spring.html)
+[Fall 2018](https://math.indianapolis.iu.edu/~hlwang/statseminar2018fall.html)
+[Spring 2018](https://math.indianapolis.iu.edu/~hlwang/statseminar2018spring.html)
+
+
+:::
+
+:::
+
+
+## Lang's Lab Journal Club
+
+<!-- ::: {.grid} -->
+
+<!-- ::: {.g-col-12 .g-col-md-2} -->
+<!-- [![](/files/images/hex-EnergySystemsAnalysis.png)](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall/) -->
+
+<!-- ::: -->
+
+<!-- ::: {.g-col-12 .g-col-md-10} -->
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+![](/files/images/journal.WEBP)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+[Lang's Lab Journal Club](/langclub.qmd)
+:::
+
+:::
+
+
