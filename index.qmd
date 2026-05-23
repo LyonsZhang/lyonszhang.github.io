@@ -39,10 +39,10 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/lyonszhang
       target: _blank
-    # - icon: youtube
-    #   text: YouTube
-    #   href: https://www.youtube.com/@HonglangWang     
-    #   target: _blank 
+    - icon: google
+      text: YouTube
+      href: https://www.youtube.com/@HonglangWang     
+      target: _blank 
     - text: "{{< iconify fa6-brands orcid size=1xl >}} ORCID"   # use academic icons, "" are needed
       href: https://orcid.org/0000-0001-5986-2260
       target: _blank
