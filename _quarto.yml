@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Dr. Honglang Wang is a statistician, researcher, and teacher. He studies and teaches data science."
-author-meta: "Honglang Wang"
+description-meta: "Dr. Liangliang Zhang is a scholar and educator based in the United States."
+author-meta: "Liangliang Zhang"
 
 website:
-  title: "Dr. Honglang Wang"
-  image: "/files/profile/honglangwang.JPG"
+  title: "Dr. Liangliang Zhang"
+  image: "/files/profile/liangliangzhang.JPG"
   navbar:
     background: light
     

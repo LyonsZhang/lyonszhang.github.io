@@ -1,7 +1,7 @@
 ---
-title: "Honglang Wang, PhD"
-description-meta: "Honglang Wang is an researcher and teacher about data science, Statistics!"
-image: files/profile/honglangwang.JPG
+title: "Liangliang Zhang, PhD"
+description-meta: "Liangliang Zhang is a scholar and educator based in the United States"
+image: files/profile/Liangliangzhang.JPG
 page-navigation: false
 toc: false
 #sidebar: false
@@ -12,48 +12,48 @@ about:
   template: trestles
   image-width: 70%
   links:
-    # - icon: sun
-    #   text: DeepPolicyLab
-    #   href: https://deeppolicylab.github.io
-    #   target: _blank
-    - icon: globe
-      text: IUIprofile
-      href: https://math.indianapolis.iu.edu/~hlwang/
+    - icon: sun
+      text: CINEMA Group
+      href: https://cwru-cinema.com
+      target: _blank
+    - icon: mortarboard
+      text: CWRU Profile
+      href: https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:hlwang@iu.edu
+      href: mailto:lxz716@case.edu
 #    - icon: github
 #      text: Github
 #      href: https://github.com/drganghe
-#    - icon: twitter
-#      text: Twitter
-#      href: https://twitter.com/DrGangHe
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/lyonszhang
 #    - icon: mastodon
 #      text: Mastodon
 #      href: https://mastodon.social/@hegang    
-    - text: "{{< ai arxiv >}} arXiv" 
-      href: http://arxiv.org/a/wang_h_19
-      target: _blank
+    # - text: "{{< ai arxiv >}} arXiv" 
+    #   href: http://arxiv.org/a/wang_h_19
+    #   target: _blank
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/honglang-wang-18505b29/
+      href: https://www.linkedin.com/in/lyonszhang
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com/@HonglangWang     
-      target: _blank 
+    # - icon: youtube
+    #   text: YouTube
+    #   href: https://www.youtube.com/@HonglangWang     
+    #   target: _blank 
     - text: "{{< iconify fa6-brands orcid size=1xl >}} ORCID"   # use academic icons, "" are needed
-      href: https://orcid.org/0000-0003-3140-5177
+      href: https://orcid.org/0000-0001-5986-2260
       target: _blank
-    - text: "{{< iconify fa6-brands wordpress >}} Wordpress"
-      href: https://honglangwang.wordpress.com/
-      target: _blank
+    # - text: "{{< iconify fa6-brands wordpress >}} Wordpress"
+    #   href: https://lyonszhang.wordpress.com/
+    #   target: _blank
     # - text: "{{< ai scopus >}} Scopus"
     #   href: https://www.scopus.com/authid/detail.uri?authorId=55607981900
     #   target: _blank
     - text: "{{< iconify academicons google-scholar >}} Google Scholar"
-      href: https://scholar.google.com/citations?user=_oqJfq4AAAAJ&hl=en
+      href: https://scholar.google.com/citations?user=4N6ViewAAAAJ&hl=en
       target: _blank
     # - text: "{{< ai researchgate >}} Research Gate"
     #   href: https://www.researchgate.net/profile/Gang-He-19
@@ -78,35 +78,35 @@ listing:
 
 :::{#hero-heading}
 
-Honglang Wang is an researcher and teacher about data science, Statistics!  He is an Associate Professor in the [Department of Mathematical Sciences](https://science.indianapolis.iu.edu/math/index.html){.external target="_blank"}, School of Science, Indiana University Indianapolis. 
+Liangliang Zhang is a scholar and educator working at the intersection of biostatistics and microbiome science to advance data-driven discovery in human health!  He is an Assistant Professor in the [Department of Population and Quantitative Health Sciences](https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang){.external target="_blank"}, School of Medicine, Case Western Reserve University. 
 
 **Education**
 
-* PhD in Statistics (2015): Department of Statistics and Probability, Michigan State University. Advisors: Yuehua Cui and Ping-Shou Zhong.
+* PhD in Statistics (2017): Department of Statistics and Probability, Michigan State University. Advisors: Taps Maiti and Chae Young Lim.
 
-* Dual PhD in Quantitative Biology (2015): Natural Science, Michigan State University. Advisors: C. Robin Buell and Yuehua Cui.
+* MS in Statistics (2015): Department of Statistics and Probability, Michigan State University.
 
-* MS in Mathematics (2010): Center of Mathematical Sciences, Zhejiang University. Advisor: Kefeng Liu.
+* MS in Financial Mathematics (2012): Center for Financial Engineering, Soochow University, China. Advisors: Chenglong Xu and Guojing Wang.
 
-* BS in Mathematics and Applied Mathematics (2007): Department of Mathematics, Tianjin University, Tian, China.
+* BS in Statistics (2009): Department of Statistics, Nanjing University of Posts and Telecoms, China.
 
 See my [Curriculum Vitae](files/CV.pdf) for more information.
 
 **Research Interests**
 
-* Statistical Analysis for Longitudinal and Functional Data
+* Biostatistics
 
-* High Dimensional Statistical Inference and its Applications
+* Bioinformatics and Computational Biology
 
-* Causal Inference
+* Microbiome and Multi-Omics
 
-* Machine Learning/Deep Learning
+* Bayesian Analysis
 
-* Nonparametric Statistics
+* High Dimensional Statistical Inference
 
-* Empirical Likelihood Methods and its Applications
+* Alzheimer's Disease
 
-* Statistical Genetics and Statistical Genomics
+* Cancer Research
 
 
 :::
